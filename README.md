@@ -3,5 +3,5 @@ Small React Project where the users can get daily price updates of the crypto co
 
 Also, check the final output by clicking the link<br>
 <a href="https://romantic-turing-f6ce49.netlify.app/">
-  Click here
+  Click here!
 </a>
